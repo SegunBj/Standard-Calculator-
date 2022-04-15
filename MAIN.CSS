@@ -1,0 +1,29 @@
+table, td {
+    border: 1px black solid;
+    border-collapse: collapse;
+    width: 500px;
+    height: 40px;
+    font-size: larger;
+    text-align: center;
+    
+    
+    
+}
+table, th {
+    background-color: rgb(2, 2, 17);
+    height: 40px;
+    
+}
+#specials {
+color: white;
+background-color: rgb(243, 142, 47);
+}
+#normal{
+    background-color: gainsboro;
+}
+#equalto {
+    background-color: green;
+}
+#zero {
+    background-color: red;
+}
